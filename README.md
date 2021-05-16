@@ -16,7 +16,7 @@ He works for Investment Banks in Canada & Europe at Temenos.
 
 <br />
 
-few places where his code is found:
+few banks where his code is found:
 <p>
   <a target="_blank" rel="noopener noreferrer" href="https://www.rbcwealthmanagement.com">  
     <img src="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/rbc.png?raw=true" height=50 /> 
