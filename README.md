@@ -102,7 +102,7 @@ you can contact him through the following media <br />
 <br />
 
 <p align="center">
-:blush: he will be glad to collaborate with you. <br />
+:blush: he will be glad to collaborate with you. &nbsp; <br />
 looking forward to hear from you soon! :heart:
 <p/>
 
