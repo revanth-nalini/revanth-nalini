@@ -6,9 +6,9 @@ nice to meet you
 
 
 <p style="display:flex; align-items:center">
-Revanth is a Java &nbsp <img src="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/java.png?raw=true" width=40 /> &nbsp |  &nbsp
+&nbsp;&nbsp;&nbsp;&nbsp;Revanth is a Java &nbsp <img src="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/java.png?raw=true" width=40 /> &nbsp |  &nbsp
 <img src="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/js.png?raw=true" width=40 />&nbsp JavaScript Fullstack Developer. <br /> 
-He works as a Software Engineer at 
+&nbsp;&nbsp;&nbsp;&nbsp;He works as a Software Engineer at 
 Temenos&nbsp;<a target="_blank" rel="noopener noreferrer" href="https://www.temenos.com">  
     <img src="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/temenos.png?raw=true" width=40 />
   </a>&nbsp;for Investment Banks.
@@ -16,10 +16,10 @@ Temenos&nbsp;<a target="_blank" rel="noopener noreferrer" href="https://www.teme
 
 <br />
 
-few financial companies where his code is found:
+&nbsp;&nbsp;&nbsp;&nbsp;few financial companies where his code is found:
 <p>
   <a target="_blank" rel="noopener noreferrer" href="https://www.rbcwealthmanagement.com">  
-    <img src="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/rbc.png?raw=true" height=50 /> 
+    &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/rbc.png?raw=true" height=50 /> 
   </a> 
     &nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://www.credit-suisse.com/international/en.html"> 
@@ -37,10 +37,10 @@ few financial companies where his code is found:
 
 <br />
 
-day-to-day technologies he deals with
+&nbsp;&nbsp;&nbsp;&nbsp;day-to-day technologies he deals with
 <p>
   <a target="_blank" rel="noopener noreferrer" href="https://angular.io">  
-    <img src="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/angular.png?raw=true" height=40 /> 
+    &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/angular.png?raw=true" height=40 /> 
   </a> 
     &nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://reactjs.org"> 
@@ -83,27 +83,27 @@ day-to-day technologies he deals with
 <br />
 
 
-you can contact him through the following media <br />
+&nbsp;&nbsp;&nbsp;&nbsp;you can contact him through the following media <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-srevanth-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srevanth) 
+&nbsp;&nbsp;&nbsp;&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-srevanth-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srevanth) 
 [![Mail Badge](https://img.shields.io/badge/-revanth--nalini-171515?style=flat&labelColor=171515b&logo=github&logoColor=white)](https://github.com/revanth-nalini)
 [![Twitter Badge](https://img.shields.io/badge/-revanths97-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/revanths97) 
 [![Mail Badge](https://img.shields.io/badge/-revanth.sridhar97-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/revanth.sridhar97)
 [![Mail Badge](https://img.shields.io/badge/-revanth.sridhar-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://www.facebook.com/revanth.sridhar) 
 <br />
-[![Mail Badge](https://img.shields.io/badge/-rev_sri-21b153?style=flat&labelColor=21b153&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/rev_sri)
+&nbsp;&nbsp;&nbsp;&nbsp;[![Mail Badge](https://img.shields.io/badge/-rev_sri-21b153?style=flat&labelColor=21b153&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/rev_sri)
 [![Mail Badge](https://img.shields.io/badge/-rev_sri-f89f1b?style=flat&labelColor=f89f1b&logo=leetcode&logoColor=white)](https://leetcode.com/rev_sri)
 [![Mail Badge](https://img.shields.io/badge/-revanth.sridhar97-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:revanth.sridhar97@gmail.com)
 [![Mail Badge](https://img.shields.io/badge/-+91--9840770558-1bd741?style=flat&labelColor=1bd741b&logo=whatsapp&logoColor=white)](tel:919840770558)
 [![Mail Badge](https://img.shields.io/badge/-anna%20nagar,%20chennai-0d3242?style=flat&labelColor=0d3242b&logo=uber&logoColor=white)](https://www.uber.com/global/en/cities/chennai)
 <br />
-:paperclip: [resume](https://github.com/revanth-nalini/revanth-nalini/blob/main/docx/Revanth-Sridhar.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;:paperclip: [resume](https://github.com/revanth-nalini/revanth-nalini/blob/main/docx/Revanth-Sridhar.pdf)
 
 <br />
 
 <p align="center">
-:blush: he will be glad to collaborate with you. &nbsp; <br />
-looking forward to hear from you soon! :heart:
+&nbsp;&nbsp;:blush: he will be glad to collaborate with you. &nbsp; <br />
+&nbsp;&nbsp;looking forward to hear from you soon! :heart:
 <p/>
 
 
