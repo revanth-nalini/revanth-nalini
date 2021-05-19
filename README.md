@@ -8,15 +8,15 @@ nice to meet you
 <p style="display:flex; align-items:center">
 Revanth is a Java &nbsp <img src="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/java.png?raw=true" width=40 /> &nbsp |  &nbsp
 <img src="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/js.png?raw=true" width=40 />&nbsp JavaScript Fullstack Developer. <br /> 
-He works for Investment Banks in Canada & Europe at Temenos.
-  <a target="_blank" rel="noopener noreferrer" href="https://www.temenos.com">  
+He works as a Software Engineer at 
+Temenos&nbsp;<a target="_blank" rel="noopener noreferrer" href="https://www.temenos.com">  
     <img src="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/temenos.png?raw=true" width=40 />
-  </a>
+  </a>&nbsp;for Investment Banks.
 </p>
 
 <br />
 
-few banks where his code is found:
+few financial companies where his code is found:
 <p>
   <a target="_blank" rel="noopener noreferrer" href="https://www.rbcwealthmanagement.com">  
     <img src="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/rbc.png?raw=true" height=50 /> 
@@ -83,7 +83,7 @@ day-to-day technologies he deals with
 <br />
 
 
-you can contact him through the following medium <br />
+you can contact him through the following media <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-srevanth-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srevanth) 
 [![Mail Badge](https://img.shields.io/badge/-revanth--nalini-171515?style=flat&labelColor=171515b&logo=github&logoColor=white)](https://github.com/revanth-nalini)
@@ -101,9 +101,10 @@ you can contact him through the following medium <br />
 
 <br />
 
+<p align="center">
 :blush: he will be glad to collaborate with you. <br />
 looking forward to hear from you soon! :heart:
-
+<p/>
 
 
 
