@@ -19,23 +19,23 @@ Temenos&nbsp;<a target="_blank" rel="noopener noreferrer" href="https://www.teme
 &nbsp;&nbsp;&nbsp;&nbsp;few financial companies where his code is found:
 <p>
   <a target="_blank" rel="noopener noreferrer" href="https://www.rbcwealthmanagement.com">  
-    &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/rbc.png?raw=true" height=75 /> 
+    &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/rbc.png?raw=true" height=60 /> 
   </a> 
     &nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://www.credit-suisse.com/international/en.html"> 
-    <img src="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/cs.png?raw=true" height=75 /> 
+    <img src="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/cs.png?raw=true" height=60 /> 
   </a>
     &nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://deutschewealth.com"> 
-    <img src="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/db.png?raw=true" height=75 /> 
+    <img src="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/db.png?raw=true" height=60 /> 
   </a> 
     &nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://www.cibc.com/en/private-wealth-management.html"> 
-    <img src="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/cibc.png?raw=true" height=75 /> 
+    <img src="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/cibc.png?raw=true" height=60 /> 
   </a>
       &nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://www.morganstanley.com/what-we-do/wealth-management"> 
-    <img src="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/morgan.jpg?raw=true" height=75 /> 
+    <img src="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/morgan.jpg?raw=true" height=60 /> 
   </a>
 
 </p>
