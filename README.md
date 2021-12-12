@@ -1,5 +1,5 @@
-Hello <a target="_blank" rel="noopener noreferrer" href="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/handwave.gif?raw=true">
-  <img src="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/handwave.gif?raw=true" width="28px" alt="hi" style="max-width:100%;"></a>, &nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/handwave.gif?raw=true">
+  <img src="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/handwave.gif?raw=true" width="28px" alt="hi" style="max-width:100%;"></a>&nbsp;Hello,
 nice to meet you
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/handshake.gif?raw=true">
   <img src="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/handshake.gif?raw=true" width="28px" alt="hi" style="max-width:100%;"></a>
@@ -99,14 +99,15 @@ Temenos&nbsp;<a target="_blank" rel="noopener noreferrer" href="https://www.teme
 &nbsp;&nbsp;&nbsp;&nbsp;[![Mail Badge](https://img.shields.io/badge/-rev_sri-21b153?style=flat&labelColor=21b153&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/rev_sri)
 [![Mail Badge](https://img.shields.io/badge/-rev_sri-f89f1b?style=flat&labelColor=f89f1b&logo=leetcode&logoColor=white)](https://leetcode.com/rev_sri)
 [![Mail Badge](https://img.shields.io/badge/-revanth.sridhar97-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:revanth.sridhar97@gmail.com)
-[![Mail Badge](https://img.shields.io/badge/-+91--9840770558-1bd741?style=flat&labelColor=1bd741b&logo=whatsapp&logoColor=white)](tel:919840770558)
-[![Mail Badge](https://img.shields.io/badge/-anna%20nagar,%20chennai-0d3242?style=flat&labelColor=0d3242b&logo=uber&logoColor=white)](https://www.uber.com/global/en/cities/chennai)
+[![Mail Badge](https://img.shields.io/badge/-+44--7305107873-1bd741?style=flat&labelColor=1bd741b&logo=whatsapp&logoColor=white)](tel:+447305107873)
+[![Mail Badge](https://img.shields.io/badge/-london,%20united%20kingdom-0d3242?style=flat&labelColor=0d3242b&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/London,+UK/@51.5287718,-0.241682,11z/data=!3m1!4b1!4m5!3m4!1s0x47d8a00baf21de75:0x52963a5addd52a99!8m2!3d51.5072178!4d-0.1275862)
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;:paperclip: [resume](https://github.com/revanth-nalini/revanth-nalini/blob/main/docx/Revanth-Sridhar.pdf)
 
 <br />
 
-<p align="center">
+<p>
+<!--    align="center"> -->
 &nbsp;&nbsp;:blush: he will be glad to collaborate with you. &nbsp; <br />
 &nbsp;&nbsp;looking forward to hear from you soon! :heart:
 <p/>
