@@ -20,11 +20,11 @@ Temenos&nbsp;<a target="_blank" rel="noopener noreferrer" href="https://www.teme
 <p>
 
   <a target="_blank" rel="noopener noreferrer" href="https://www.capitalone.com">  
-    &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/rbc.png?raw=true" height=60 /> 
+    &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/capitalone.png?raw=true" height=60 /> 
   </a> 
     &nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://www.rbcwealthmanagement.com">  
-    <img src="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/capitalone.png?raw=true" height=60 /> 
+    <img src="https://github.com/revanth-nalini/revanth-nalini/blob/main/image/rbc.png?raw=true" height=60 /> 
   </a> 
     &nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://www.credit-suisse.com/international/en.html"> 
